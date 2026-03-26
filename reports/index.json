@@ -1,0 +1,29 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": true,
+  "entries": [
+    {
+      "id": "20260324-200309-3qck",
+      "title": "Soulfire Oakenheart",
+      "commanders": [
+        "Soulfire Oakenheart"
+      ],
+      "dateStart": "2026-03-25T00:03:09.000Z",
+      "dateEnd": "2026-03-25T00:12:50.000Z",
+      "dateLabel": "3/24/2026, 8:03:09 PM - 3/24/2026, 8:12:50 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260324-200309-3qck",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 54
+      }
+    }
+  ]
+}
