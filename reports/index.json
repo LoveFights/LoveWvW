@@ -3,6 +3,34 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260331-190019-n9bf",
+      "title": "Soulfire Oakenheart",
+      "commanders": [
+        "Soulfire Oakenheart"
+      ],
+      "dateStart": "2026-03-31T23:00:19.000Z",
+      "dateEnd": "2026-04-01T00:47:08.000Z",
+      "dateLabel": "3/31/2026, 7:00:19 PM - 3/31/2026, 8:47:08 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260331-190019-n9bf",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 13,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260330-190851-7uov",
       "title": "Soulfire Oakenheart",
       "commanders": [
