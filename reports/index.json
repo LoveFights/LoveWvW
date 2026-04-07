@@ -3,6 +3,39 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260406-185539-f6i2",
+      "title": "Empyrean Soul",
+      "commanders": [
+        "Empyrean Soul"
+      ],
+      "dateStart": "2026-04-06T22:55:39.000Z",
+      "dateEnd": "2026-04-07T00:21:21.000Z",
+      "dateLabel": "4/6/2026, 6:55:39 PM - 4/6/2026, 8:21:21 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260406-185539-f6i2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 12,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260405-190350-yx2j",
       "title": "Empyrean Soul",
       "commanders": [
