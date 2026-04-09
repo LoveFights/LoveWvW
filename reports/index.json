@@ -3,6 +3,34 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260408-193143-3dm2",
+      "title": "Jaina Dragonbane",
+      "commanders": [
+        "Jaina Dragonbane"
+      ],
+      "dateStart": "2026-04-08T23:31:43.000Z",
+      "dateEnd": "2026-04-09T00:13:40.000Z",
+      "dateLabel": "4/8/2026, 7:31:43 PM - 4/8/2026, 8:13:40 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260408-193143-3dm2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 18,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260407-184738-5z7m",
       "title": "Empyrean Soul",
       "commanders": [
