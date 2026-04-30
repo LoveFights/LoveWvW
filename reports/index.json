@@ -3,6 +3,40 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260429-195749-0h4r",
+      "title": "Resolute Soul, Soul Of The Storm",
+      "commanders": [
+        "Resolute Soul",
+        "Soul Of The Storm"
+      ],
+      "dateStart": "2026-04-29T23:57:49.000Z",
+      "dateEnd": "2026-04-30T00:57:12.000Z",
+      "dateLabel": "4/29/2026, 7:57:49 PM - 4/29/2026, 8:57:12 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260429-195749-0h4r",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260428-190034-hedt",
       "title": "Soulfire Oakenheart",
       "commanders": [
