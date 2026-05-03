@@ -3,6 +3,35 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260502-184333-3oi8",
+      "title": "Empyrean Soul, Soulfire Oakenheart",
+      "commanders": [
+        "Empyrean Soul",
+        "Soulfire Oakenheart"
+      ],
+      "dateStart": "2026-05-02T22:43:33.000Z",
+      "dateEnd": "2026-05-02T23:33:41.000Z",
+      "dateLabel": "5/2/2026, 6:43:33 PM - 5/2/2026, 7:33:41 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260502-184333-3oi8",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 20,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 11,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260501-192526-y26v",
       "title": "Soulfire Oakenheart",
       "commanders": [
