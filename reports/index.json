@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260505-185156-4475",
+      "title": "Soulfire Oakenheart",
+      "commanders": [
+        "Soulfire Oakenheart"
+      ],
+      "dateStart": "2026-05-05T22:51:56.000Z",
+      "dateEnd": "2026-05-05T23:57:46.000Z",
+      "dateLabel": "5/5/2026, 6:51:56 PM - 5/5/2026, 7:57:46 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260505-185156-4475",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 18,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260504-190704-bv2t",
       "title": "Abbadon Ironaxe",
       "commanders": [
