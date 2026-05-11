@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260510-191014-8kgm",
+      "title": "Soul Of The Storm",
+      "commanders": [
+        "Soul Of The Storm"
+      ],
+      "dateStart": "2026-05-10T23:10:14.000Z",
+      "dateEnd": "2026-05-11T00:03:52.000Z",
+      "dateLabel": "5/10/2026, 7:10:14 PM - 5/10/2026, 8:03:52 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260510-191014-8kgm",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 20,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260509-194649-7hyq",
       "title": "Soul Of The Storm",
       "commanders": [
