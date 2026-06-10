@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260609-185511-has3",
+      "title": "Empyrean Soul",
+      "commanders": [
+        "Empyrean Soul"
+      ],
+      "dateStart": "2026-06-09T22:55:11.000Z",
+      "dateEnd": "2026-06-10T00:01:35.000Z",
+      "dateLabel": "6/9/2026, 6:55:11 PM - 6/9/2026, 8:01:35 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260609-185511-has3",
+      "summary": {
+        "borderlandsPct": 0.6764705882352942,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260608-190940-fjne",
       "title": "Abbadon Ironaxe",
       "commanders": [
