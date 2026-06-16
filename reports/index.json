@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260615-193034-f0rt",
+      "title": "Abbadon Ironaxe",
+      "commanders": [
+        "Abbadon Ironaxe"
+      ],
+      "dateStart": "2026-06-15T23:30:34.000Z",
+      "dateEnd": "2026-06-15T23:58:09.000Z",
+      "dateLabel": "6/15/2026, 7:30:34 PM - 6/15/2026, 7:58:09 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260615-193034-f0rt",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 15,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 10
+      }
+    },
+    {
       "id": "20260614-191437-pq30",
       "title": "Soul Of The Storm",
       "commanders": [
