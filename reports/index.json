@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260620-185223-fztb",
+      "title": "Resolute Soul, Soul Of The Storm",
+      "commanders": [
+        "Resolute Soul",
+        "Soul Of The Storm"
+      ],
+      "dateStart": "2026-06-20T22:52:23.000Z",
+      "dateEnd": "2026-06-20T23:31:54.000Z",
+      "dateLabel": "6/20/2026, 6:52:23 PM - 6/20/2026, 7:31:54 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260620-185223-fztb",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20260619-184541-h74n",
       "title": "Abbadon Ironaxe",
       "commanders": [
