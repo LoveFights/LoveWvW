@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260628-193426-9o15",
+      "title": "Growling Soul, Soul Of The Storm",
+      "commanders": [
+        "Growling Soul",
+        "Soul Of The Storm"
+      ],
+      "dateStart": "2026-06-28T23:34:26.000Z",
+      "dateEnd": "2026-06-29T00:11:28.000Z",
+      "dateLabel": "6/28/2026, 7:34:26 PM - 6/28/2026, 8:11:28 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260628-193426-9o15",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 27,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260626-183910-ezje",
       "title": "Abbadon Ironaxe",
       "commanders": [
