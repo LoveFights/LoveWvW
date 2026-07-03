@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260702-190209-b5j2",
+      "title": "Phantasmagoric Soul",
+      "commanders": [
+        "Phantasmagoric Soul"
+      ],
+      "dateStart": "2026-07-02T23:02:09.000Z",
+      "dateEnd": "2026-07-03T00:13:42.000Z",
+      "dateLabel": "7/2/2026, 7:02:09 PM - 7/2/2026, 8:13:42 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260702-190209-b5j2",
+      "summary": {
+        "borderlandsPct": 0.9333333333333333,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 9,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260630-190830-70y1",
       "title": "Mad Doc Abbadon, Phantasmagoric Soul",
       "commanders": [
