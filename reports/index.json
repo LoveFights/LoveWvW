@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260716-190308-5i1f",
+      "title": "Prötectör Of Löve",
+      "commanders": [
+        "Prötectör Of Löve"
+      ],
+      "dateStart": "2026-07-16T23:03:08.000Z",
+      "dateEnd": "2026-07-17T00:15:27.000Z",
+      "dateLabel": "7/16/2026, 7:03:08 PM - 7/16/2026, 8:15:27 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260716-190308-5i1f",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 20,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260714-183719-6cfm",
       "title": "Prötectör Of Löve",
       "commanders": [
