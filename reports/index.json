@@ -4,6 +4,35 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260720-194722-2o4q",
+      "title": "Abbadon Ironaxe, Prötectör Of Löve",
+      "commanders": [
+        "Abbadon Ironaxe",
+        "Prötectör Of Löve"
+      ],
+      "dateStart": "2026-07-20T23:47:22.000Z",
+      "dateEnd": "2026-07-21T23:24:57.000Z",
+      "dateLabel": "7/20/2026, 7:47:22 PM - 7/21/2026, 7:24:57 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260720-194722-2o4q",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 30,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260720-185442-5baq",
       "title": "Abbadon Ironaxe",
       "commanders": [
