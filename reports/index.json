@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260728-183712-a0xl",
+      "title": "Prötectör Of Löve",
+      "commanders": [
+        "Prötectör Of Löve"
+      ],
+      "dateStart": "2026-07-28T22:37:12.000Z",
+      "dateEnd": "2026-07-28T23:49:06.000Z",
+      "dateLabel": "7/28/2026, 6:37:12 PM - 7/28/2026, 7:49:06 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260728-183712-a0xl",
+      "summary": {
+        "borderlandsPct": 0.9473684210526315,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 14,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260726-194635-l7ic",
       "title": "Rugged Soul",
       "commanders": [
