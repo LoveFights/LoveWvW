@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260731-194300-m8yl",
+      "title": "Ms Swagalicious",
+      "commanders": [
+        "Ms Swagalicious"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-07-31T23:43:00.000Z",
+      "dateEnd": "2026-07-31T23:43:16.000Z",
+      "dateLabel": "7/31/2026, 7:43:00 PM - 7/31/2026, 7:43:16 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260731-194300-m8yl",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 3
+      }
+    },
+    {
       "id": "20260730-184850-iifg",
       "title": "Prötectör Of Löve",
       "commanders": [
