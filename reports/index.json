@@ -4,6 +4,44 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260802-190940-b1h0",
+      "title": "Soul Of The Storm",
+      "commanders": [
+        "Soul Of The Storm"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-08-02T23:09:40.000Z",
+      "dateEnd": "2026-08-03T00:08:59.000Z",
+      "dateLabel": "8/2/2026, 7:09:40 PM - 8/2/2026, 8:08:59 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260802-190940-b1h0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 16,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260801-190840-88o2",
       "title": "Ms Swagalicious",
       "commanders": [
