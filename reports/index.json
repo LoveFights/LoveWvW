@@ -4,6 +4,44 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260809-191007-g5f7",
+      "title": "Prötectör Of Löve",
+      "commanders": [
+        "Prötectör Of Löve"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-08-09T23:10:07.000Z",
+      "dateEnd": "2026-08-10T00:03:43.000Z",
+      "dateLabel": "8/9/2026, 7:10:07 PM - 8/9/2026, 8:03:43 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260809-191007-g5f7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 18,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 12
+      }
+    },
+    {
       "id": "20260808-185519-cw0j",
       "title": "Swagnums Jr",
       "commanders": [
