@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260813-190359-y1ze",
+      "title": "Prötectör Of Löve",
+      "commanders": [
+        "Prötectör Of Löve"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-08-13T23:03:59.000Z",
+      "dateEnd": "2026-08-13T23:43:14.000Z",
+      "dateLabel": "8/13/2026, 7:03:59 PM - 8/13/2026, 7:43:14 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260813-190359-y1ze",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 42,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 10
+      }
+    },
+    {
       "id": "20260811-185430-gjsd",
       "title": "Prötectör Of Löve",
       "commanders": [
