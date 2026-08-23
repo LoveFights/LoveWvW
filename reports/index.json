@@ -4,6 +4,44 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260822-190127-gsf1",
+      "title": "Swagnums Jr",
+      "commanders": [
+        "Swagnums Jr"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-08-22T23:01:27.000Z",
+      "dateEnd": "2026-08-22T23:51:13.760Z",
+      "dateLabel": "8/22/2026, 7:01:27 PM - 8/22/2026, 7:51:13 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260822-190127-gsf1",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260821-192041-369j",
       "title": "Swagnums Jr",
       "commanders": [
