@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260823-191759-snzj",
+      "title": "Söulfire Störm",
+      "commanders": [
+        "Söulfire Störm"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-08-23T23:17:59.000Z",
+      "dateEnd": "2026-08-24T00:18:57.311Z",
+      "dateLabel": "8/23/2026, 7:17:59 PM - 8/23/2026, 8:18:57 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260823-191759-snzj",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260822-190127-gsf1",
       "title": "Swagnums Jr",
       "commanders": [
