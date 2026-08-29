@@ -4,6 +4,44 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260828-185151-9h2u",
+      "title": "Ms Swagalicious",
+      "commanders": [
+        "Ms Swagalicious"
+      ],
+      "guild": {
+        "id": "588B97E5-E01A-F011-81A9-8FB5CFBE7766",
+        "name": "Secret Order Of The Dolyaks",
+        "tag": "YAKS"
+      },
+      "dateStart": "2026-08-28T22:51:51.000Z",
+      "dateEnd": "2026-08-28T23:55:30.868Z",
+      "dateLabel": "8/28/2026, 6:51:51 PM - 8/28/2026, 7:55:30 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260828-185151-9h2u",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260825-185623-406d",
       "title": "Prötectör Of Löve",
       "commanders": [
