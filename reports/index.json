@@ -4,6 +4,44 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260829-190337-3pdt",
+      "title": "Ms Swagalicious",
+      "commanders": [
+        "Ms Swagalicious"
+      ],
+      "guild": {
+        "id": "588B97E5-E01A-F011-81A9-8FB5CFBE7766",
+        "name": "Secret Order Of The Dolyaks",
+        "tag": "YAKS"
+      },
+      "dateStart": "2026-08-29T23:03:37.000Z",
+      "dateEnd": "2026-08-30T00:17:03.276Z",
+      "dateLabel": "8/29/2026, 7:03:37 PM - 8/29/2026, 8:17:03 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260829-190337-3pdt",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 11,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260828-185151-9h2u",
       "title": "Ms Swagalicious",
       "commanders": [
