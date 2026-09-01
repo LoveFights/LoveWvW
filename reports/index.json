@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260831-190437-ks00",
+      "title": "Abbadon Ironaxe",
+      "commanders": [
+        "Abbadon Ironaxe"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-08-31T23:04:37.000Z",
+      "dateEnd": "2026-09-01T00:15:50.838Z",
+      "dateLabel": "8/31/2026, 7:04:37 PM - 8/31/2026, 8:15:50 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260831-190437-ks00",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 30,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260830-190449-dpfg",
       "title": "Prötectör Of Löve, Soul Of The Storm",
       "commanders": [
