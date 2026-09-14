@@ -4,6 +4,45 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260913-191157-v1ah",
+      "title": "Prötectör Of Löve, Soul Of The Storm",
+      "commanders": [
+        "Prötectör Of Löve",
+        "Soul Of The Storm"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-09-13T23:11:57.000Z",
+      "dateEnd": "2026-09-14T00:13:23.229Z",
+      "dateLabel": "9/13/2026, 7:11:57 PM - 9/13/2026, 8:13:23 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260913-191157-v1ah",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 19,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260912-191338-yljb",
       "title": "Pocket Swagnums",
       "commanders": [
