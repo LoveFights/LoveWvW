@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260914-190237-2lei",
+      "title": "Abbadon Ironaxe",
+      "commanders": [
+        "Abbadon Ironaxe"
+      ],
+      "guild": {
+        "id": "7A00948C-78D7-49B4-A585-4088599BB381",
+        "name": "Clan Omen",
+        "tag": "Omen"
+      },
+      "dateStart": "2026-09-14T23:02:37.000Z",
+      "dateEnd": "2026-09-14T23:27:44.470Z",
+      "dateLabel": "9/14/2026, 7:02:37 PM - 9/14/2026, 7:27:44 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260914-190237-2lei",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 30,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260913-191157-v1ah",
       "title": "Prötectör Of Löve, Soul Of The Storm",
       "commanders": [
