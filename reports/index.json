@@ -4,6 +4,50 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260920-190945-bz0d",
+      "title": "Empyrean Soul, Soul Of The Storm",
+      "commanders": [
+        "Empyrean Soul",
+        "Soul Of The Storm"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-09-20T23:09:45.000Z",
+      "dateEnd": "2026-09-20T23:44:17.895Z",
+      "dateLabel": "9/20/2026, 7:09:45 PM - 9/20/2026, 7:44:17 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260920-190945-bz0d",
+      "summary": {
+        "borderlandsPct": 0.875,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 15,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 10
+      }
+    },
+    {
       "id": "20260919-191618-o9ut",
       "title": "Pocket Swagnums",
       "commanders": [
