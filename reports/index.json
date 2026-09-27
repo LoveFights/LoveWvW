@@ -5,6 +5,39 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260926-201224-2x73",
+      "title": "Grumpy Foo",
+      "commanders": [
+        "Grumpy Foo"
+      ],
+      "guild": {
+        "id": "AEC84103-177B-E511-A34A-E4115BDF481D",
+        "name": "Hyper Talented",
+        "tag": "HYPE"
+      },
+      "dateStart": "2026-09-27T00:12:24.000Z",
+      "dateEnd": "2026-09-27T00:45:36.256Z",
+      "dateLabel": "9/26/2026, 8:12:24 PM - 9/26/2026, 8:45:36 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20260926-201224-2x73",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 14,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260924-184945-itm9",
       "title": "Prötectör Of Löve",
       "commanders": [
