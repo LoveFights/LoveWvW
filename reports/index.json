@@ -1,9 +1,52 @@
 {
   "colorPalette": "crimson-red",
+  "axiTheme": "glass",
+  "glass": true,
   "glassSurfaces": true,
-  "glassmorphic": true,
-  "axiDesign": false,
   "entries": [
+    {
+      "id": "20261001-184632-u90u",
+      "title": "Prötectör Of Löve",
+      "commanders": [
+        "Prötectör Of Löve"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-10-01T22:46:32.000Z",
+      "dateEnd": "2026-10-01T23:37:52.226Z",
+      "dateLabel": "10/1/2026, 6:46:32 PM - 10/1/2026, 7:37:52 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20261001-184632-u90u",
+      "summary": {
+        "borderlandsPct": 0.9117647058823529,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 12,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 15
+      }
+    },
     {
       "id": "20260929-191708-et2e",
       "title": "Prötectör Of Löve",
