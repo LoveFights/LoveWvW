@@ -5,6 +5,34 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20261002-191556-ys1t",
+      "title": "Pocket Swagnums",
+      "commanders": [
+        "Pocket Swagnums"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-10-02T23:15:56.000Z",
+      "dateEnd": "2026-10-02T23:46:00.236Z",
+      "dateLabel": "10/2/2026, 7:15:56 PM - 10/2/2026, 7:46:00 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20261002-191556-ys1t",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 32,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20261001-184632-u90u",
       "title": "Prötectör Of Löve",
       "commanders": [
