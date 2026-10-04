@@ -5,6 +5,44 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20261003-191159-dw5b",
+      "title": "Pocket Swagnums",
+      "commanders": [
+        "Pocket Swagnums"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-10-03T23:11:59.000Z",
+      "dateEnd": "2026-10-04T00:08:35.154Z",
+      "dateLabel": "10/3/2026, 7:11:59 PM - 10/3/2026, 8:08:35 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20261003-191159-dw5b",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 28,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20261002-191556-ys1t",
       "title": "Pocket Swagnums",
       "commanders": [
