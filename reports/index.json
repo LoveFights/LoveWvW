@@ -5,9 +5,48 @@
   "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.1"
+    "version": "3.22.2"
   },
   "entries": [
+    {
+      "id": "20261009-192503-bqz3",
+      "title": "Pocket Swagnums",
+      "commanders": [
+        "Pocket Swagnums"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-10-09T23:25:03.000Z",
+      "dateEnd": "2026-10-10T00:12:31.208Z",
+      "dateLabel": "10/9/2026, 7:25:03 PM - 10/9/2026, 8:12:31 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20261009-192503-bqz3",
+      "publishedBy": "LoveFights",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 17
+      }
+    },
     {
       "id": "20261008-190417-hn4x",
       "title": "Abbadon Ironaxe, Prötectör Of Löve",
