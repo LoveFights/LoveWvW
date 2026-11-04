@@ -5,9 +5,54 @@
   "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.10"
+    "version": "3.22.11"
   },
   "entries": [
+    {
+      "id": "20261103-184912-1qtz",
+      "title": "Empyrean Soul, Prötectör Of Löve",
+      "commanders": [
+        "Empyrean Soul",
+        "Prötectör Of Löve"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-11-03T23:49:12.000Z",
+      "dateEnd": "2026-11-04T00:22:10.002Z",
+      "dateLabel": "11/3/2026, 6:49:12 PM - 11/3/2026, 7:22:10 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20261103-184912-1qtz",
+      "publishedBy": "LoveFights",
+      "summary": {
+        "borderlandsPct": 0.9142857142857143,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 23,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 17
+      }
+    },
     {
       "id": "20261029-191231-y6t4",
       "title": "Prötectör Of Löve",
