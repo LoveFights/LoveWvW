@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261110-190011-3tt8",
+      "title": "Prötectör Of Löve",
+      "commanders": [
+        "Prötectör Of Löve"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-11-11T00:00:11.000Z",
+      "dateEnd": "2026-11-11T00:21:22.810Z",
+      "dateLabel": "11/10/2026, 7:00:11 PM - 11/10/2026, 7:21:22 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20261110-190011-3tt8",
+      "publishedBy": "LoveFights",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 25,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20261108-200019-7q1e",
       "title": "Prötectör Of Löve",
       "commanders": [
