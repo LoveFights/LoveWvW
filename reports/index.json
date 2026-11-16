@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261115-190519-ezrh",
+      "title": "Empyrean Soul",
+      "commanders": [
+        "Empyrean Soul"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-11-16T00:05:19.000Z",
+      "dateEnd": "2026-11-16T01:01:28.852Z",
+      "dateLabel": "11/15/2026, 7:05:19 PM - 11/15/2026, 8:01:28 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20261115-190519-ezrh",
+      "publishedBy": "LoveFights",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 28,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20261114-190902-pyb3",
       "title": "Prötectör Of Löve",
       "commanders": [
