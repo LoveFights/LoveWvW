@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261117-183320-czly",
+      "title": "Chefs Mesmer X",
+      "commanders": [
+        "Chefs Mesmer X"
+      ],
+      "guild": {
+        "id": "588B97E5-E01A-F011-81A9-8FB5CFBE7766",
+        "name": "Secret Order Of The Dolyaks",
+        "tag": "YAKS"
+      },
+      "dateStart": "2026-11-17T23:33:20.000Z",
+      "dateEnd": "2026-11-18T00:39:40.350Z",
+      "dateLabel": "11/17/2026, 6:33:20 PM - 11/17/2026, 7:39:40 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20261117-183320-czly",
+      "publishedBy": "LoveFights",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 16,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20261115-190519-ezrh",
       "title": "Empyrean Soul",
       "commanders": [
