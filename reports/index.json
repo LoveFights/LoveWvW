@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261127-183852-2kti",
+      "title": "Phantasmagoric Soul",
+      "commanders": [
+        "Phantasmagoric Soul"
+      ],
+      "guild": {
+        "id": "59A8B8ED-AF80-EA11-81A8-83C7278578E0",
+        "name": "Soulmates Always And Forever",
+        "tag": "LOVE"
+      },
+      "dateStart": "2026-11-27T23:38:52.000Z",
+      "dateEnd": "2026-11-28T01:41:07.537Z",
+      "dateLabel": "11/27/2026, 6:38:52 PM - 11/27/2026, 8:41:07 PM",
+      "url": "https://LoveFights.github.io/LoveWvW/?report=20261127-183852-2kti",
+      "publishedBy": "LoveFights",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 13,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20261124-191240-vvra",
       "title": "Phantasmagoric Soul, Wrong Way Foo",
       "commanders": [
